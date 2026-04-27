@@ -42,6 +42,33 @@ We used machine learning clustering techniques to segment customers based on the
 - smartcard_customers.csv
 
 
+  ## 🐦 Flappy Bird AI using Deep Q Learning (DQN)
+
+   ###  Project Overview
+This project implements a Reinforcement Learning agent using **Deep Q Network (DQN)** to play the Flappy Bird game automatically.
+
+The agent learns by interacting with the environment and improves its performance over time using rewards and penalties.
+
+
+
+   ###  Concepts Used
+- Reinforcement Learning (RL)
+- Deep Q Network (DQN)
+- Experience Replay
+- Target Network
+- Epsilon-Greedy Strategy
+
+
+
+## ⚙️ Tech Stack
+- Python
+- PyTorch
+- Gymnasium
+- Flappy Bird Gym Environment
+
+
+
+
 
 Author:
 Ritesh Rawat
